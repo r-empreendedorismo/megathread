@@ -23,8 +23,8 @@ hero:
 features:
   - icon: ⭐
     title: Marque essa URL como favorito
-    details: É fundamental salvar essa URL, pois ela servirá como uma bússola para onde nossos navios estão atracados no momento.
+    details: É fundamental salvar essa URL, pois ela servirá como um guia para sua jornada e desenvolvimento no mundo do empreendedorismo.
   - icon: ⚠️
     title: Aviso!
-    details: Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos. Sempre tenham cuidado ao navegar nos mares.
+    details: Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos. Sempre tenham cuidado ao navegar.
 ---
