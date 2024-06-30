@@ -1,4 +1,4 @@
-# 🪶 ➜ Sobre
+# 🪶 Sobre
 
 A Comunidade Empreendedorismo é voltada para discussão de temas relacionados a empreendedorismo, startups, negócios, finanças e outras maneiras de ganhar dinheiro.
 

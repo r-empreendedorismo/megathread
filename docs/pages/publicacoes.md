@@ -1,6 +1,6 @@
-# 📚 Conhecimento
+# 📢 Publicações úteis
 
-Composição de livros relevantes para ajudar na sua jornada no empreendedorismo!
+Composição de threads que podem ajudar o jovem empreendedor a consolidar a base de conhecimento.
 
 :::info ⚠️ Lembrete rápido
 - Sempre leia com atenção e atenção aos detalhes.
