@@ -33,6 +33,8 @@ export default {
   cleanUrls: true,
   lastUpdated: true,
   externalLinkIcon: true,
+  outDir:"../public",
+  base:"/megathread/",
   themeConfig: {
     lastUpdatedText: 'Última atualização em',
     logo: "/logo.png",
