@@ -1,4 +1,4 @@
-# 🧭 ➜ Sites de Uso Geral
+# 🌐 Sites de Uso Geral
 
 Sites de múltiplos propósitos que com toda certeza irão alavancar e fornecer um repositório rapido de recursos úteis.
 

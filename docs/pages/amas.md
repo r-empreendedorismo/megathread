@@ -1,4 +1,4 @@
-# AMABrasil (Ask me Anything Brasil)
+# 🎯 AMAs (Ask me Anything Brasil)
 
 Em nosso sub vizinho algumas figuras de bom croação postam suas jornadas e respondem duvidas que ocasionalmente servem como guias de como começar e alavancar o desenvolvimento do seu negócio!
 

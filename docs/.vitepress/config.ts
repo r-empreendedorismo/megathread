@@ -71,7 +71,7 @@ export default {
           { text: "📚 Livros", link: "pages/livros" },
           { text: "📺 Canais", link: "pages/canais" },
           { text: "🎓 Educacional", link: "pages/educacional" },
-          { text: "🎓 AMAs", link: "pages/amas" },
+          { text: "🎯 AMAs", link: "pages/amas" },
         ],
       },
       {
