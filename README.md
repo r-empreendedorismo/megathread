@@ -1,6 +1,6 @@
-<h1 align="center">Megathread Pirata</h1>
+<h1 align="center">Megathread Empreendedorismo</h1>
 <div align="center">
-    <a href="https://lemmy.dbzer0.com/c/pirataria"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
+    <a href="https://www.reddit.com/r/empreendedorismo/">r/Empreendedorismo</a>
 </div>
 
 # O que são as Megathreads?
@@ -18,7 +18,7 @@ Este repositório contém os arquivos [Markdown](https://www.markdownguide.org/)
 
 Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da Megathread. Se você deseja contribuir, siga os seguintes passos:
 
-1. Faça um [fork](https://github.com/c-pirataria/megathread/fork) deste repositório para o seu perfil GitHub.
+1. Faça um [fork](https://github.com/r-empreendedorismo/megathread/fork) deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
 3. Faça as edições necessárias nos arquivos Markdown, situado na pasta docs/pages.
 4. Envie um pull request para este repositório principal.
@@ -29,12 +29,6 @@ Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da
 9. O site não pode conter avisos no [URL Void](https://www.urlvoid.com/), se o site tiver falso positivos explique por que é um falso positivo.
 
 Agradecemos a participação de todos na construção e manutenção de nossa megathread.
-
-## Parcerias
-
-Atualmente, o projeto não possui parcerias estabelecidas com outras entidades ou organizações. Além disso, não estamos aceitando novos colaboradores para o projeto neste momento. O projeto é mantido por atualmente 4 (quatro) colaboradores, os mesmos que fundaram a Comunidade Pirataria.
-
-Esta decisão foi tomada após uma cuidadosa avaliação das necessidades atuais do projeto e de nossa capacidade de gerenciar de forma eficaz.
 
 ## Recursos usados
 
