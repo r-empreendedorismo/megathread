@@ -4,4 +4,6 @@ Aderimos a padrões específicos e defendemos certos regulamentos, como qualquer
 
 ---
 
-# ⚠️ EM CONSTRUÇÃO ⚠️
+::: warning ⚠️ Em construção ⚠️
+Fique atento a novos conteúdos que serão publicados em breve!
+:::

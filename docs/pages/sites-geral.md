@@ -2,11 +2,9 @@
 
 Sites de múltiplos propósitos que com toda certeza irão alavancar e fornecer um repositório rapido de recursos úteis.
 
-:::danger ⚠️ Lembrete rápido
-
-- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- ⚠️ EM CONSTRUÇÃO ⚠️
-  :::
+::: warning ⚠️ Em construção ⚠️
+Fique atento a novos conteúdos que serão publicados em breve!
+:::
 
 ## Sites oficiais
 

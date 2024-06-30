@@ -2,11 +2,12 @@
 
 Composição de livros relevantes para ajudar na sua jornada no empreendedorismo!
 
-:::danger ⚠️ Lembrete rápido
-
-- ✔️ Todos os links foram analizados, porém continuamos recomendando cautela
+:::info ⚠️ Lembrete rápido
 - ⭐ = Altamente recomendado
   :::
+::: warning ⚠️ Em construção ⚠️
+Fique atento a novos conteúdos que serão publicados em breve!
+:::
 
 ## Mentalidade
 
