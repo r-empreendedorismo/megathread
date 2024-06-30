@@ -22,6 +22,9 @@ hero:
 # Features section
 features:
   - icon: ⭐
+    title: r/Empreendedorismo
+    details: Comunidade voltada para discussão de temas relacionados a empreendedorismo, startups, negócios, finanças e outras maneiras de ganhar dinheiro.
+  - icon: ⭐
     title: Marque essa URL como favorito
     details: É fundamental salvar essa URL, pois ela servirá como um guia para sua jornada e desenvolvimento no mundo do empreendedorismo.
   - icon: ⚠️

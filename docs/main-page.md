@@ -29,6 +29,9 @@
 ### 🎓 [Educacional](pages/educacional.md)
 - Aqui terá varios recursos e fontes de aprendizado relevantes para começar e alavancar seu negócio.
 
-### 🎓 [Melhores AMA](pages/amas.md)
+### 📚 [Conhecimento Geral](pages/conhecimento.md)
+- Alguns redditors gostam de escrever conteúdos que agregam conhecimento! Selecionamos os melhores e concentramos aqui!
+
+### 🎯 [AMAs](pages/amas.md)
 - De vez enquando no sub vizinho [r/AMABrasil](https://www.reddit.com/r/AMABRASIL) alguns usuários fazem grandes relatos que se tornam guias pra quem está começando ou está atuando em alguma área.
 ---

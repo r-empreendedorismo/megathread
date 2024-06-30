@@ -49,6 +49,10 @@ export default {
         text: "Sobre",
         link: "pages/sobre",
       },
+      {
+        text: "Regras",
+        link: "pages/util/regras",
+      },
     ],
     // Social Icons
     socialLinks: [
