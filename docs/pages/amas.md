@@ -16,4 +16,4 @@ Fique atento a novos conteúdos que serão publicados em breve!
 ##  [Sou vendedor do Mercado Livre há 9 anos AMA.](https://www.reddit.com/r/AMABRASIL/comments/1av1f9k/sou_vendedor_do_mercado_livre_h%C3%A1_9_anos_ama/)
 - É isso aí. Sou vendedor do Mercado Livre a 9 anos e fiquei milionário vendendo na plataforma. Pergunte me qualquer coisa.
 
-## [Já fiz mais de 300 mil reais com marketing digital em menos de e anos](https://www.reddit.com/r/AMABRASIL/comments/1dr0adc/j%C3%A1_fiz_mais_de_300_mil_reais_com_marketing/)
+## [Já fiz mais de 300 mil reais com marketing digital em menos de 3 anos](https://www.reddit.com/r/AMABRASIL/comments/1dr0adc/j%C3%A1_fiz_mais_de_300_mil_reais_com_marketing/)
