@@ -17,3 +17,6 @@ Fique atento a novos conteúdos que serão publicados em breve!
 - É isso aí. Sou vendedor do Mercado Livre a 9 anos e fiquei milionário vendendo na plataforma. Pergunte me qualquer coisa.
 
 ## [Já fiz mais de 300 mil reais com marketing digital em menos de 3 anos](https://www.reddit.com/r/AMABRASIL/comments/1dr0adc/j%C3%A1_fiz_mais_de_300_mil_reais_com_marketing/)
+
+## [Sou mulher e ganho R$80mil por mês trabalhando 4 horas por dia. AMA](https://www.reddit.com/r/AMABRASIL/comments/195suiu/sou_mulher_e_ganho_r80mil_por_m%C3%AAs_trabalhando_4/)
+- Sou programadora, tenho 26 anos e trabalho remoto de qualquer lugar.
